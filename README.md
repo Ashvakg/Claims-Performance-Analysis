@@ -1,4 +1,4 @@
-# Claims-Case-Study
+# Claims Performance Analysis
 This Power BI dashboard provides a comprehensive analysis of claims data for a specific insurance policy. It examines claim volumes, costs, and patterns to identify key insights such as high utilization reasons, abnormal findings, and provider performance. The dashboard is designed for interactive exploration, allowing users to filter data by claim status, type, and other dimensions.
 
 ![image](https://github.com/user-attachments/assets/e8bfaffb-208b-4ff1-b4ac-6f7709d8e22b)
